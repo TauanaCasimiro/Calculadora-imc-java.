@@ -18,7 +18,7 @@ Após os dados, o sistema realiza o cálculo matemático e exibe a classificaç�
 
 ## Demonstração do Resultado
 
-![Resultado do IMC](./resultado-IMC.png)
+![Resultado do IMC](./Resultado-IMC.png)
 
 ## Autor
 
